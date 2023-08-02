@@ -1,8 +1,11 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Daniel Cavalheiro</h1>
-<h3 align="center">"Simplicity is prerequisite for reliability." - Edsger W. Dijkstra</h3>
+<h1 align="center">Hey 😎, I'm Daniel Cavalheiro</h1>
+<h4 align="center">"Simplicity is prerequisite for reliability." - Edsger W. Dijkstra</h4>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&vCenter=true&color=FF2E68&width=460&lines=Computer+and+Software+Engineer+Student+;NOVA+School+Of+Science+and+Technology)](https://git.io/typing-svg)
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=This+image+is+center-aligned&font=Fira%20Code&center=true&width=380&height=50](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&center=true&vCenter=true&color=FF2E68&width=460&lines=Computer+and+Software+Engineer+Student+;NOVA+School+Of+Science+and+Technology)"/></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcavalheiro&label=Profile%20views&color=0e75b6&style=flat" alt="danielcavalheiro" /> </p>
 
@@ -10,11 +13,11 @@
 
 - ✍️ I’m currently writing **my thesis on web apps security**
 
-- 📖 I’m currently completing **my masters in computer engineering**
+- 📖 I’m completing **my masters in computer engineering**
 
 - 📫 How to reach me **danielmilsomcavalheiro@gmail.com**
 
-- ⚡ Fun fact **love to play golf🏌️**
+- ⚡ Fun fact **I love to play golf🏌️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
