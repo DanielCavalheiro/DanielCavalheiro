@@ -1,7 +1,8 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Daniel Cavalheiro</h1>
 <h3 align="center">"Simplicity is prerequisite for reliability." - Edsger W. Dijkstra</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=FF2E68&width=460&lines=Computer+and+Software+Engineer+Student+;NOVA+School+Of+Science+and+Technology)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&vCenter=true&color=FF2E68&width=460&lines=Computer+and+Software+Engineer+Student+;NOVA+School+Of+Science+and+Technology)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcavalheiro&label=Profile%20views&color=0e75b6&style=flat" alt="danielcavalheiro" /> </p>
 
